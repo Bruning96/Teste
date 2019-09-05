@@ -1,0 +1,369 @@
+.text-purple{
+	color: purple;
+}
+
+.clickable{
+	cursor: pointer;
+}
+
+.hover-gainsboro:hover{
+	background: gainsboro;
+	cursor: pointer;
+}
+
+.center{
+	text-align: center;
+}
+
+.left{
+	text-align: left; 
+}
+.right{
+	text-align: right;
+}
+
+.bg-steelblue{
+	background: steelblue;
+}
+
+.bg-purple{
+	background: purple;
+}
+
+.cpurple {
+	color: mediumorchid;
+}
+
+.cmediumseagreen{
+	color: mediumseagreen;
+}
+
+.c-lime{
+	color:lime;
+}
+
+.cgreen{
+	color: green;
+}
+
+.climegreen{
+	color: limegreen;
+}
+.cfirebrick{
+	color: #c00;
+}
+
+.csteelblue{
+	color: steelblue;
+}
+
+.cturquoise{
+	color: turquoise;
+}
+
+.b-white{
+	border: 1px solid #555;
+}
+
+.bg-black{
+	background: #222;
+}
+
+.btn-purple{
+	background: purple;
+	color: white;
+}
+.border-gainsboro{
+	border: 1px solid gainsboro;
+}
+
+.border-bottom-gainsboro{
+	border-bottom: 1px solid gainsboro;
+}
+
+.borderl-orange{
+	border-left: 3px solid orange;
+}
+
+.borderl-white{
+	border-left: 3px solid white;
+}
+
+.borderl-gainsboro{
+	border-left: 3px solid gainsboro;
+}
+
+.border-bottom-gainsboro:last-child{
+	border-bottom: 0;
+}
+
+
+.row{
+	margin:0;
+	padding: 0;
+}
+
+.m-0{
+	margin:0;
+}
+
+.fs-20{
+	font-size: 20px;
+}
+.mt-2{
+	margin-top: 2px;
+}
+.mt-10{
+	margin-top: 10px;
+}
+.mt-20{
+	margin-top: 20px;
+}
+
+.mt-30{
+	margin-top: 30px;
+}
+
+.mt-40{
+	margin-top: 40px;
+}
+
+.mt-50{
+	margin-top: 50px;
+}
+
+.mt-60{
+	margin-top: 60px;
+}
+
+.mt-70{
+	margin-top: 70px;
+}
+
+.mt-80{
+	margin-top: 80px;
+}
+
+.mb-2{
+	margin-bottom: 2px;
+}
+
+.mb-5{
+	margin-bottom: 5px;
+}
+
+.mb-10{
+	margin-bottom: 10px;
+}
+
+.mb-20{
+	margin-bottom: 20px;
+}
+
+.mb-30{
+	margin-bottom: 30px;
+}
+
+.mb-40{
+	margin-bottom: 40px;
+}
+
+.mb-50{
+	margin-bottom: 50px;
+}
+
+.mb-60{
+	margin-bottom: 60px;
+}
+
+.mb-70{
+	margin-bottom: 70px;
+}
+.mb-80{
+	margin-bottom: 80px;
+}
+
+.mb-90{
+	margin-bottom: 90px;
+}
+
+.h-400{
+	height: 400px;
+	overflow-y: auto;
+}
+
+.h-500{
+	height: 500px;
+	overflow-y: auto;
+}
+
+.ml-15{
+	margin-left: 15px;
+}
+
+.mr-2{
+	margin-right: 2px;
+}
+
+.p-0{
+	padding: 0;
+}
+
+.p-10{
+	padding: 10px;
+}
+
+.p-20{
+	padding: 20px;
+}
+
+.p-30{
+	padding: 30px;
+}
+
+.mr-1{
+	margin-right: 1px;
+}
+
+.fright{
+	float: right;
+}
+
+.fleft{
+	float: left;
+}
+
+.display-n{
+	display: none;
+}
+
+.ci .d-none{
+	display: none;
+}
+
+.br-5{
+	border-radius: 5px;
+}
+
+.br-10{
+	border-radius: 10px;
+}
+
+.br-20{
+	border-radius: 20px;
+}
+.br-50{
+	border-radius: 50px;
+}
+
+.MDInput-Login{    
+	border: transparent;
+	border-radius: 0;
+	margin-bottom: 10px;
+	background: #222;
+	border: 1px solid #fff;
+	border-radius: 4px;
+	outline: 0;
+	box-shadow: 0 0 0 0;
+	color: #fff;
+	width: 100%;
+	height: 35px;	
+	padding: 20px;
+	padding-left: 10px;	
+}
+
+.MDInput-Login:focus {   
+	background: #222;
+	box-shadow: 0 0 0 0;
+	border:transparent;
+	outline: 0;
+	border: 1px solid dodgerblue; 
+	color: #fff;	
+}
+
+.MDInput-Login::placeholder{
+	color: #aaa;
+}
+
+.MDInput-Login-error{
+	background: #222;
+	box-shadow: 0 0 0 0;
+	border:transparent;
+	outline: 0;
+	border: 1px solid red; 
+	color: #fff;	
+}
+
+.MDInput-Login-success{
+	background: #222;
+	box-shadow: 0 0 0 0;
+	border:transparent;
+	outline: 0;
+	border: 1px solid lime; 
+	color: #fff;	
+}
+
+
+.Transacoes-m, .Transacoes-d{
+	border-bottom: 1px solid gainsboro;
+}
+
+.Transacoes-m:hover, .Transacoes-d:hover{
+	background: gainsboro;
+}
+
+a{
+	color: #222;
+}
+
+.Menu-m-2 a{
+	color: #fff;
+}
+
+/* Cor de fundo do autocomplete */
+.MDInput-Login:-webkit-autofill {
+	box-shadow: 0 0 0 30px #222 inset;
+}
+
+/* Cor do texto do autocomplete */
+.MDInput-Login:-webkit-autofill {
+	-webkit-text-fill-color: #fff !important;
+}
+
+/* width */
+::-webkit-scrollbar {
+	width: 5px;
+	height: 5px;
+}
+
+::-webkit-scrollbar:hover {
+	width: 10px;
+	height: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: #555; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #333; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #444; 
+}
+
+.form-atd  .form-control:focus{
+	border: 2px solid purple;
+	box-shadow: 0 0 0 0;
+	outline: 0;
+}
+
+
+
+
+
+
